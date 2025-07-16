@@ -1,6 +1,9 @@
 ## Hi! Holi! Grüßi! 
 
+
 I am Mafalda González González, a Spanish-German student currently looking for position in a company that will enable me to grow and learn! Of course, I am excited to contribute with my technical capacities and personal qualities, which you can check out below :) 
+
+
 
 - 📫 Currently, I am finishing my **Master's degree** in **Computational Social Science** at Charles III University of Madrid. Here is where my GitHub journey started! Feel free to check out projects such as the [Flight Information scraper]([url](https://github.com/mafaldi/data-harvesting)) or my [Data Visualisation recreation project ]([url](https://csslab.uc3m.es/dataviz/projects/2024/100546612/)).
 - 🌱 I am currently also working on my **Thesis Project**, which relates to **Election Forecasting and Poll House Effects**. The work I am doing contributes to the work-in-progress R package of [pollspain]([url](https://github.com/dadosdelaplace/pollspain)).
